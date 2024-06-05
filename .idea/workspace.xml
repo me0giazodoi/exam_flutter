@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="19e4d831-15a6-4d0c-bbb4-87c47daacd72" name="Changes" comment="exam">
+      <change afterPath="$PROJECT_DIR$/exam/src/main/java/ApiFlutterApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exam/src/main/java/TascApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exam/src/main/java/controller/PlaceController.java" beforeDir="false" afterPath="$PROJECT_DIR$/exam/src/main/java/controller/PlaceController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exam/src/main/java/model/Place.java" beforeDir="false" afterPath="$PROJECT_DIR$/exam/src/main/java/model/Place.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exam/src/main/java/repository/PlaceRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exam/src/main/java/service/PlaceService.java" beforeDir="false" afterPath="$PROJECT_DIR$/exam/src/main/java/service/PlaceService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exam/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/exam/src/main/resources/application.properties" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;me0giazodoi&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="20658fce-ca2c-439c-b265-2b9f8ffccd76" />
+        <option name="url" value="https://github.com/me0giazodoi/exam_flutter.git" />
+      </UrlAndAccount>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="2hS7uN1dX2u7rYYktKbdB1Vg2AJ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="false" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;dart.analysis.tool.window.visible&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/exam_springboot&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;show.migrate.to.gradle.popup&quot;: &quot;false&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="19e4d831-15a6-4d0c-bbb4-87c47daacd72" name="Changes" comment="" />
+      <created>1717575847389</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1717575847389</updated>
+      <workItem from="1717575848020" duration="836000" />
+      <workItem from="1717576942416" duration="3000" />
+    </task>
+    <task id="LOCAL-00001" summary="exam">
+      <option name="closed" value="true" />
+      <created>1717576232489</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1717576232489</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="exam" />
+    <option name="LAST_COMMIT_MESSAGE" value="exam" />
+  </component>
+</project>
